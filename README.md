@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V3ND3TTi
-- 👀 I’m interested in ... Blockchain & Web Development with the goal of a career change
-- 🌱 I’m currently learning ... Building a Blockchain & Cryptocurrency from Scratch on Udemy
+- 👀 I’m interested in ... Blockchain Development with the goal of a career change
+- 🌱 I’m currently learning ... Advanced JavaScript with another Blockchain course on deck on Udemy
 - 💞️ I’m looking to collaborate on ... Any Blockchain gurus looking to mentor someone
 - 📫 How to reach me ... feel free to send me an email. It's listed on my profile page.
 
