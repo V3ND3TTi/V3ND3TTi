@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @V3ND3TTi
-- 👀 I’m interested in ... Blockchain, Web and Mobile Development. #GameDev with Unity.
-- 🌱 I’m currently learning ... C# and #DotNet development
-- 💞️ I’m looking to collaborate on ... Any Blockchain or .Net gurus looking to mentor somoeone.
+- 👀 I’m interested in ... Blockchain, Web3, Web and Mobile Development.
+- 🌱 I’m currently learning ... TypeScript & React/Vue
+- 💞️ I’m looking to collaborate on ... Any WebDev/Blockchain gurus looking to mentor somoeone.
 - 📫 How to reach me ... feel free to send me an email. It's listed on my profile page.
 
 <!---
