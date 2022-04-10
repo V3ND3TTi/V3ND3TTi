@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @V3ND3TTi
-- 👀 I’m interested in ... Web/Mobile Development, Web3/Blockchain.
-- 🌱 I’m currently learning ... TypeScript & React/Vue/Svelte
-- 💞️ I’m looking to collaborate on ... Any WebDev/Blockchain gurus looking to mentor somoeone.
+- 👀 I’m interested in ... GoLang, Web/Mobile Development, Web3/Blockchain.
+- 🌱 I’m currently learning ... GoLang & WebDev w/WASM
+- 💞️ I’m looking to collaborate on ... Any WebDev/GoLang/Blockchain gurus looking to mentor somoeone.
 - 📫 How to reach me ... <a href="https://www.twitter.com/V3ND3TTi">Twitter</a>.
 
 <!---
