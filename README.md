@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V3ND3TTi
-- 👀 I’m interested in ... C# .NET
-- 🌱 I’m currently learning ... Blazor & MAUI
+- 👀 I’m interested in ... #TypeScript, #JavaScript & #GoLang
+- 🌱 I’m currently learning ... #FullStack #WebDev
 - 💞️ I’m looking to collaborate on ... Anyone willing to help a newb coder out. 
 - 📫 How to reach me ... <a href="https://www.twitter.com/V3ND3TTi">Twitter</a>.
 
