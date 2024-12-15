@@ -1,6 +1,6 @@
 - 👋 Hi, my friends call me Deevo. I love gaming and coding, mediocre at both 😂
-- 👀 I’m interested in ... learning new things in the coding world, currently fascinated with MOJO!
-- 🌱 I’m currently learning ... #Java #SQL #Azure #CCNA 
+- 👀 I’m interested in ... Python -> MOJO, Java -> Kotlin, SQL & Azure Cloud Development
+- 🌱 I’m currently learning ... #Kotlin #Java #SQL #Azure
 - 📫 How to reach me ... <a href="https://www.twitter.com/V3ND3TTi">Twitter</a>.
 
 <!---
