@@ -1,5 +1,5 @@
 - 👋 Hi, my friends call me Deevo. I love gaming and coding, mediocre at both 😂
-- 👀 I’m interested in ... Python -> MOJO, Java -> Kotlin, SQL & Azure Cloud Development
+- 👀 I’m interested in ... Python -> MOJO, Java -> Kotlin, SQL, C# & Azure Cloud Development
 - 🌱 I’m currently learning ... going old school with #C
 - 📫 How to reach me ... <a href="https://www.linkedin.com/in/V3ND3TTi" target="_blank" rel="noreferrer noopener">LinkedIn</a> & <a href="https://www.twitter.com/V3ND3TTi" target="_blank" rel="noreferrer noopener">Twitter</a>.
 
