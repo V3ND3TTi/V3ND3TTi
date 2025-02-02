@@ -1,6 +1,6 @@
 - 👋 Hi, my friends call me Deevo. I love gaming and coding, mediocre at both 😂
-- 👀 I’m interested in ... Unity Game Development, SQL, C# & Azure Cloud Development
-- 🌱 I’m currently learning ... .NET & C#
+- 👀 I’m interested in ... Unity Game Development, Kotlin/Java, SQL, C# & Azure Cloud Development
+- 🌱 I’m currently learning ... Kotlin & Android App Development
 - 📫 How to reach me ... <a href="https://www.linkedin.com/in/V3ND3TTi" target="_blank" rel="noreferrer noopener">LinkedIn</a> & <a href="https://www.twitter.com/V3ND3TTi" target="_blank" rel="noreferrer noopener">Twitter</a>.
 
 <!---
